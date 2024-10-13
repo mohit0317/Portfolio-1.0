@@ -1,0 +1,21 @@
+.about-me {
+    margin-top: 20px;
+    color: white;
+    /* Change the color according to your design */
+    text-align: center;
+    /* Center-align the text */
+}
+
+.about-me h2 {
+    font-size: 2em;
+    /* Adjust the font size as needed */
+    margin-bottom: 10px;
+    /* Space below the heading */
+}
+
+.about-me p {
+    margin: 10px 0;
+    /* Space between paragraphs */
+    line-height: 1.5;
+    /* Better readability */
+}
